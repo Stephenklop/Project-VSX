@@ -1,0 +1,21 @@
+{
+    "name": "project-vsx",
+    "displayName": "Project-VSX",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Project-VSX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Project-VSX-color-theme.json"
+            }
+        ]
+    }
+}
